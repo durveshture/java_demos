@@ -1,0 +1,6 @@
+equi join: if data is same in both tables
+outer join: equi join+ unmatched data from either tables
+non equi join: data is not same, but in range
+self join: if data is same in both columns of same table.
+
+*references: foreign key

@@ -1,0 +1,8 @@
+wait() and notify() can be called only inside synchronized block
+static var can be declared only at class level
+static method cannot access non static methods
+non static members can access static members
+In a two dimentional array, it is compulsary to mention no of rows, but no of columns can be 0 or more
+interface can have no methods(Runnable)
+covariant overriding: parent class method's return type is greater than the child's class method return type
+return type of lambda expression is the functional interface
